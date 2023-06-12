@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Ritesh Kumar
 
-- 🔭 I’m currently working on amazone clone using blockchain.
+- 🔭 I’m currently working on GO.
 - 🌱 I’m currently learning Blockchain.
 - 👯 I’m looking to collaborate on any inovative project.
 - 🤔 I’m looking for help with AWS.
