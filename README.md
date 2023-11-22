@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,nextjs,nodejs,tailwind,bootstrap,sass,git,express,mongo,mysql,figma,postman,html,css,github,vscode&perline=6)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,nextjs,vite,nodejs,tailwind,bootstrap,sass,git,express,mongo,mysql,figma,postman,html,css,github,vscode&perline=6)](https://skillicons.dev)  
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh560&show_icons=true&locale=en&layout=compact" alt="ritesh560" /></p>
